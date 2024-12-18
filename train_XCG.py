@@ -2,7 +2,7 @@
 """
 Created on Tue Jul 19 11:37:33 2022
 
-@author: Sampa
+@author: Sampa Misra
 """
 import itertools
 import Models 

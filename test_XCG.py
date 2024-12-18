@@ -2,7 +2,7 @@
 """
 Created on Tue Jul 19 13:30:50 2022
 
-@author: Sampa
+@author: Sampa Misra
 """
 import Models 
 from Dataset_cycleGAN import TestDataset
